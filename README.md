@@ -1,6 +1,6 @@
-Kotlin TornadoFx (JavaFx) Demo
-===============================
+Kotlin TornadoFx Type-Safe Style Demo
+======================================
 
-A simple "Hello world" demo for TornadoFX.
+Type safe style builder.
 
 Run `Hello.kt` from your IDE.
